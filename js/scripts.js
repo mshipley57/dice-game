@@ -47,3 +47,4 @@ $(document).ready(function(){
         $("#output").text(inputtedName);
   });
 });
+// just testing it at home
